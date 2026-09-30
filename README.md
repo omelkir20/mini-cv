@@ -11,9 +11,7 @@
 # Captures
 
 
-```text
-C:\Users\omelk\Desktop\images\cp1.png
-```
+images/cp1.png
 
 # Conclusion
 
